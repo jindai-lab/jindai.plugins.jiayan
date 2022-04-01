@@ -1,0 +1,3 @@
+[submodule "plugins/autocompletion"]
+	path = plugins/autocompletion
+	url = https://gist.github.com/zhuth/52cae0f9eddd7b8aa317f326928fdb96
